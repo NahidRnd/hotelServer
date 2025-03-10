@@ -4,7 +4,7 @@
             "id": "6017649",
             "name": "Vakko Hotel and Residence",
             "description": "Vakko Hotel and Residence features a fitness center, terrace, a restaurant and bar in Istanbul. A sauna and a car rental service are available for guests. The property provides a 24-hour front desk, a shuttle service, room service and free WiFi throughout the property. The hotel will provide guests with air-conditioned rooms offering a desk, a coffee machine, a fridge, a dishwasher, a safety deposit box, a flat-screen TV, a balcony and a private bathroom with a bidet. Every room has an electric tea pot, while some rooms will provide you with a patio and others also provide guests with city views. All guest rooms in Vakko Hotel and Residence are equipped with free toiletries and an iPad.A continental, vegetarian or vegan breakfast is served at the property. Popular points of interest near the accommodation include Dolmabahce Palace, Istanbul Congress Center and Taksim Metro Station. Istanbul Airport is 21 miles away.",
-            "medium_url": "src/assets/img/room-1.jpg",
+            "medium_url": "/assets/room-1.jpg",
             "picture_url": [
                 "src/assets/img/vvv1.jpg",
                 "src/assets/img/vvv2.jpg",
@@ -33,7 +33,7 @@
             "id": "3254852",
             "name": "JW Marriott Hotel",
             "description": "Located in Istanbul, 7.8 miles from Blue Mosque, JW Marriott Hotel Istanbul Marmara Sea provides accommodations with a seasonal outdoor swimming pool, free private parking, a fitness center and a garden. Providing a restaurant, the property also features a shared lounge, as well as an indoor pool and a hot tub. The property has a 24-hour front desk, a shuttle service, room service and free WiFi throughout the property. Guest rooms at the hotel come with air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, free toiletries and a hairdryer. Each room is equipped with a coffee machine, while certain rooms include a kitchen with a fridge, a dishwasher and an oven. At JW Marriott Hotel Istanbul Marmara Sea every room includes bed linen and towels. Guests at the accommodation can enjoy a buffet breakfast. JW Marriott Hotel Istanbul Marmara Sea offers 5-star accommodations with a spa center and terrace. There's n on-site bar and guests can also use the business area. Halic Congress Center is 8.2 miles from the hotel, while Hagia Sophia is 8.3 miles away. Istanbul Airport is 25 miles from the property.",
-            "medium_url": "src/assets/img/room-2.jpg",
+            "medium_url": "/assets/room-2.jpg",
             "picture_url": [
                 "src/assets/img/jw1.jpg",
                 "src/assets/img/jw2.jpg",
@@ -65,7 +65,7 @@
             "id": "5602318",
             "name": "Mandarin Oriental Bosphorus",
             "description": "Mandarin Oriental Bosphorus, Istanbul features a fitness center, a garden and a sun terrace with swimming pool and buffet breakfast in Istanbul. Well situated in the Besiktas district, this hotel provides a shared lounge, as well as a sauna and a hot tub. The property has a kids' club, room service and currency exchange for guests. Free WiFi is available to all guests, while selected rooms will provide you with a balcony.At the hotel you'll find a restaurant serving Italian, Mediterranean and Asian cuisine. Vegetarian, dairy-free and halal options can also be requested.Mandarin Oriental Bosphorus, Istanbul offers 5-star accommodations with a hot spring bath and playground.Speaking Arabic, German, English and French at the reception, staff are always on hand to help.Dolmabahce Palace is 2.6 miles from the accommodation, while Dolmabahce Clock Tower is 3.7 miles away. Istanbul Airport is 24 miles from the property.",
-            "medium_url": "src/assets/img/room-3.jpg",
+            "medium_url": "/assets/room-3.jpg",
             "picture_url": [
                 "src/assets/img/man1.jpg",
                 "src/assets/img/man2.jpg",
@@ -95,7 +95,7 @@
             "id": "6877649",
             "name": "Çırağan Palace",
             "description": "Well situated in the center of Istanbul, Çırağan Palace Kempinski Istanbul provides air-conditioned rooms with free WiFi, free private parking and room service. 1.1 miles from Dolmabahce Palace and 2.2 miles from Dolmabahce Clock Tower, the property has a garden and a bar. The hotel has a fitness center, year-round outdoor pool and terrace, and guests can dine in the restaurant. All rooms come with a safety deposit box, while selected rooms will provide you with a balcony. The breakfast offers buffet, continental or American options. Speaking Arabic, German, English and French at the reception, staff will be happy to provide guests with practical information on the area. Istanbul Congress Center is 2.7 miles from the hotel, while Taksim Metro Station is 2.8 miles from the property. Istanbul Airport is 23 miles away, and the property offers a paid airport shuttle service.",
-            "medium_url": "src/assets/img/ccc1.jpg",
+            "medium_url": "/assets/ccc1.jpg",
             "picture_url": [
                 "src/assets/img/ccc1.jpg",
                 "src/assets/img/ccc2.jpg",
@@ -124,7 +124,7 @@
             "id": "7789512",
             "name": "Four Seasons Hotel",
             "description": "Located along the Bosphorus, this renovated 19th century Ottoman palace features a historic architecture in harmony with luxurious details. An indoor pool and a heated outdoor pool with free parasols and sun loungers are available. The seafront property also has a garden and a spacious terrace with panoramic views of the Bosphorus. Free WiFi and private parking are available on site. Tastefully decorated with fine furnishings, each air-conditioned room offers an iPod docking station and a flat-screen TV with satellite channels. A mini-bar, safety deposit box and a desk are also provided. Aqua Restaurant, with its terrace overlooking the Bosphorus, serves Mediterranean cuisine, with Italian and Turkish specialties. Guests can enjoy the breakfast with international flavors in buffet style. Pool grill is an ideal choice for fresh salads, crispy grilled kebabs and tender fresh fish. The Lobby Bar and Lounge is a cozy place for socialization. You can work out in the fitness center and then relax in the sauna. Guests of this luxurious hotel can also benefit from the exotic atmosphere of the Turkish bath afterwards. Spa therapy and body treatments are also possible. The reception is at your service 7/24, and provides room service. Four Seasons Hotel Istanbul at the Bosphorus is only a 4-minute walk from one of Istanbul’s lively scenes, Besiktas Square. Ataturk Airport is 16 mi from the property while Istanbul Airport is 31 mi away.",
-            "medium_url": "src/assets/img/fff1.jpg",
+            "medium_url": "/assets/fff1.jpg",
             "picture_url": [
                 "src/assets/img/fff1.jpg",
                 "src/assets/img/fff2.jpg",
@@ -153,7 +153,7 @@
             "id": "5564885",
             "name": "Elegant & unique",
             "description": "Elegant & unique canal house in famous canal area is located in Amsterdam, just a 14-minute walk from Rijksmuseum and 0.8 miles from Dutch National Opera & Ballet. With river views, this accommodation features a terrace. The property is half a mile from the city center and a 8-minute walk from Royal Palace Amsterdam.With free Wifi, this 4-bedroom villa offers a flat-screen TV, a washing machine, and a fully equipped kitchen with a dishwasher and oven. Towels and bed linen are featured in the villa. For added privacy, the accommodation has a private entrance and soundproofing.There is an on-site coffee shop. Dining options are available close to the villa.Popular points of interest near Elegant & unique canal house in famous canal area include Anne Frank House, Rembrandtplein, and Leidseplein. The nearest airport is Schiphol Airport, 9.3 miles from the accommodation.",
-            "medium_url": "src/assets/img/ele1.jpg",
+            "medium_url": "/assets/ele1.jpg",
             "picture_url": [
                 "src/assets/img/ele12.jpg",
                 "src/assets/img/ele10.jpg",
@@ -181,7 +181,7 @@
             "id": "5546812",
             "name": "Light and modern",
             "description": "You might be eligible for a Genius discount at Light and modern apartment. Sign in to check if a Genius discount is available for your selected dates.Genius discounts at this property are subject to booking dates, stay dates, and other available deals.A recently renovated apartment, Light and modern apartment offers accommodations in Amsterdam. With garden views, this accommodation provides a terrace. Free Wifi is available throughout the property and RAI Amsterdam is a 16-minute walk away.The apartment is composed of 2 bedrooms, a fully equipped kitchen, and 2 bathrooms. A flat-screen TV is provided. The accommodation is non-smoking.Heineken Experience is 2.1 miles from the apartment, while Van Gogh Museum is 2.4 miles away. The nearest airport is Schiphol Airport, 8.1 miles from Light and modern apartment.",
-            "medium_url": "src/assets/img/lit1.jpg",
+            "medium_url": "/assets/lit1.jpg",
             "picture_url": [
                 "src/assets/img/lit12.jpg",
                 "src/assets/img/lit10.jpg",
@@ -208,7 +208,7 @@
             "id": "6689578",
             "name": "Flo's Atelier",
             "description": "Flo's Atelier - Family studio is located in Amsterdam, just 2.5 miles from Rembrandt House and 1.1 miles from Our Lord in the Attic Museum. The property is close to Dam Square, Beurs van Berlage, and Basilica of St. Nicholas. The property is 0.9 miles from the city center and a 8-minute walk from Anne Frank House.With free Wifi, this bed and breakfast offers a cable flat-screen TV, a washing machine, and a fully equipped kitchen with a dishwasher and oven. The bed and breakfast offers bed linen, towels, and laundry service.There is a coffee shop, and a grocery delivery service and a mini-market are also available.You can play table tennis at the bed and breakfast, and the area is popular for cycling. A baby safety gate is also available for guests at Flo's Atelier - Family studio.Popular points of interest near the accommodation include Amsterdam Central Station, Royal Palace Amsterdam, and Leidseplein. Schiphol Airport is 9.3 miles from the property.",
-            "medium_url": "src/assets/img/flo1.jpg",
+            "medium_url": "/assets/flo1.jpg",
             "picture_url": [
                 "src/assets/img/flo12.jpg",
                 "src/assets/img/flo10.jpg",
